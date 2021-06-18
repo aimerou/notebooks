@@ -1,1 +1,1 @@
-Set of python notebooks for different AI projects.
+Set of python notebooks for my AI learning projects.
